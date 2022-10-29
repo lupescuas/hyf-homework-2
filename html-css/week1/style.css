@@ -26,13 +26,13 @@ body
     grid-template-columns: 1fr 2fr;
     box-shadow: 0 35px 55px rgba(0,0,0,0.1);
 }
-.container .left_Side
+.container .left-side
 {
     position: relative;
     background: #57676f;
     padding: 40px;
 }
-.profileText
+.profile-text
 {
     position: relative;
     display: flex;
